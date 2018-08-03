@@ -1,0 +1,2 @@
+# SSUET-AI
+Assignments
